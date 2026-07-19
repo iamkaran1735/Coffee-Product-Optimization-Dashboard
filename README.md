@@ -98,9 +98,9 @@ streamlit run app.py
 
 ### Sales by Category & Store Contribution
 
-![Sales by Category](images/Revanue%20by%20Category.png)
+![Sales by Category](images/Revenue%20by%20Category.png)
 
-![Store Contribution](images/Revanue%20by%20Store.png)
+![Store Contribution](images/Revenue%20by%20Store.png)
 
 ### Top 10 Selling Products
 
@@ -108,11 +108,11 @@ streamlit run app.py
 
 ### Revenue by Store
 
-![Revenue by Store](images/Revanue%20by%20Store.png)
+![Revenue by Store](images/Revenue%20by%20Store.png)
 
 ### Revenue by Category
 
-![Revenue by Category](images/Revanue%20by%20Category.png)
+![Revenue by Category](images/Revenue%20by%20Category.png)
 
 ### Dataset Preview
 
