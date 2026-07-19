@@ -94,31 +94,33 @@ streamlit run app.py
 
 ### Dashboard Home
 
-_Add Screenshot Here_
+![Dashboard Home](images/Dashboard%20Home.png)
 
 ### Sales by Category & Store Contribution
 
-_Add Screenshot Here_
+![Sales by Category](images/Revenue%20by%20Category.png)
+
+![Store Contribution](images/Revenue%20by%20Store.png)
 
 ### Top 10 Selling Products
 
-_Add Screenshot Here_
+![Top 10 Selling Products](images/Top%2010%20Selling%20Product.png)
 
 ### Revenue by Store
 
-_Add Screenshot Here_
+![Revenue by Store](images/Revenue%20by%20Store.png)
 
 ### Revenue by Category
 
-_Add Screenshot Here_
+![Revenue by Category](images/Revenue%20by%20Category.png)
 
 ### Dataset Preview
 
-_Add Screenshot Here_
+![Dataset Preview](images/Dataset%20preview.png)
 
 ### Hour-wise Sales Analysis
 
-_Add Screenshot Here_
+![Hour Wise Sales Analysis](images/Hour%20Wise%20Sales%20Analysis.png)
 
 ---
 
